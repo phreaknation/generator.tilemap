@@ -58,11 +58,11 @@ var cursors;
             });
 
             var gridParams = {
-                height: 256,
-                width: 256,
+                height: 128,
+                width: 128,
                 pixel: {
-                    height: 4,
-                    width: 4,
+                    height: 32,
+                    width: 32,
                 }
             };
             var rand = _.random(0, 100);

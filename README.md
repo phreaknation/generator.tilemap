@@ -1,7 +1,9 @@
 # Phaser Tilemap Generator Plugin
 By Joel Dies
 
-A really simple implementation of a perlin noise generator which allows nearly any generator to be used. [Perlin Noise library](https://github.com/wwwtyro/perlin.js) came from [Rye Terrell](https://github.com/wwwtyro)
+[Demo](http://codepen.io/phreaknation/details/ygPwJJ/)
+
+A really simple implementation of a perlin noise generator which allows nearly any generator to be used. [Perlin Noise library](https://github.com/wwwtyro/perlin.js) came from [Rye Terrell](https://github.com/wwwtyro).
 
 **This is not 100% documented but is on its way to being 100% documented.**
 

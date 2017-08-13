@@ -44,7 +44,7 @@ Return the plugin version.
 
 #### Example:
 ```
-registry.version();
+mapgen.version();
 ```
 
 ### description()
@@ -52,7 +52,7 @@ Return a description of this plugin.
 
 #### Example:
 ```
-registry.description();
+mapgen.description();
 ```
 
 ** More details coming soon **
